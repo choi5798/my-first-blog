@@ -56,3 +56,7 @@ h1 a {
 body {
     padding-left: 15px;
 }
+
+.intruder-image-list {
+    object-fit: cover;
+}
